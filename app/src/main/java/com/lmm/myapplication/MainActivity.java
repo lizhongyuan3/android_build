@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         webView.getSettings().setAppCacheEnabled(true);
 
 
-        webView.loadUrl("http://vr-dev.frp.nkucxcy.com/system");
+        webView.loadUrl("https://yuanran.xinoutech.com/system/tv");
 
 
 
